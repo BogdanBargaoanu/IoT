@@ -1,8 +1,8 @@
-// the setup function runs once when you press reset or power the board
 #define rosu 11
 #define galben 12
 #define verde 13
 
+// the setup function runs once when you press reset or power the board
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
   pinMode(verde, OUTPUT); // verde
